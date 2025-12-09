@@ -1,4 +1,4 @@
-import { Experience } from "@/components/Experience";
+import { Experience } from "./components/Experience.tsx";
 import { Html, useProgress } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
 import { Suspense } from "react";
